@@ -23,4 +23,11 @@ Here's the finished circuit.
 ## Schematic
 ![Schematic](images/Schematic_remote-controlled-turntable_2022-05-25.png)
 ## Completed Project
-<iframe src="https://drive.google.com/file/d/1A5O9XK1z3PkgxU5nkv2c31mZUUX6Bg0R/preview" width="100%" allow="autoplay"></iframe>
+
+
+
+https://user-images.githubusercontent.com/51080539/170307141-8c988191-bd74-4628-99ae-5c2f65f74e6c.mp4
+
+
+
+
